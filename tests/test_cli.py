@@ -2,7 +2,7 @@
 Unit tests for the CLI module.
 """
 import pytest
-import sys
+# import sys
 from io import StringIO
 from unittest.mock import patch
 from myapp.cli import create_parser, main
