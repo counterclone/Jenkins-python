@@ -3,7 +3,7 @@ Command Line Interface for the Simple Python App
 """
 import argparse
 import sys
-from .app import Calculator, GreetingService, ListUtils
+from .app import Calculator, GreetingService
 
 
 def create_parser():
